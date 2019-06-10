@@ -43,4 +43,5 @@ int main() {
 	for (int i = 0; i < ret_vt.size(); i++) {
 		cout << ret_vt[i] << endl;
 	}
+
 }
