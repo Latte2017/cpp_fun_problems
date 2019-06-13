@@ -21,5 +21,17 @@
     <ClCompile Include="Find_Common_chars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zipzag.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interleaving_strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_num.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="atoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

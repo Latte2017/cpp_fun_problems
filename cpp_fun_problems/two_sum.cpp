@@ -42,4 +42,16 @@ int main() {
 	TwoSum* mysum{};
 	output_vt = mysum->FindSum(input_arr, sum);
 	cout << "First elemetn is " << output_vt[0] << "Second element is " << output_vt[1] << endl;
+
+
+	int i = 0, &r1 = i;
+	double d = 0, &r2 = d;
+	r2 = 3.14;
+	r2 = r1;
+	i = r2;
+	r2 = d;
+	i = 2;
+	cout << r1 << r2 << endl;
+	int* p1 = nullptr;
+
 }
