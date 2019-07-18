@@ -90,9 +90,6 @@
     <ClCompile Include="permutaion_of_another_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="replace_spaces_by_string.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="stringCompression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -112,6 +109,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="add2Linkedlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="replaceSpacesByString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="circularLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SetOfStacks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
