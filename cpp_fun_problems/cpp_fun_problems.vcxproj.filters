@@ -120,5 +120,8 @@
     <ClCompile Include="SetOfStacks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsBalanced.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
